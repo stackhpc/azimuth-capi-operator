@@ -1,1 +1,1 @@
-This repository has moved to https://github.com/azimuth-cloud/azimuth-capi-operator.git.
+This repository has moved to https://github.com/azimuth-cloud/azimuth-capi-operator.
